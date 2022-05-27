@@ -1,2 +1,3 @@
 patica de cochibo fritaS
 patica de cochino en vara
+git log --oneline
